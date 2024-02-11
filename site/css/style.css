@@ -14,3 +14,7 @@ body{
 .format-principles {
     height: 500px;
 }
+.return-to-top{
+    font-size: 12px;
+    font-style: italic;
+}
