@@ -19,6 +19,7 @@ nav ul li{
 body{
     font-family:'Times New Roman', Times, serif;
     line-height: 1.5;
+    background-color: rgb(223, 223, 223);
 }
 .format-principles {
     height: 500px;
