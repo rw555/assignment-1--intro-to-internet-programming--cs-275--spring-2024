@@ -16,6 +16,9 @@ nav ul li{
     width: 220px;
     text-align: center;
 }
+header{
+    background-color: rgb(135, 77, 189);
+}
 body{
     font-family:'Times New Roman', Times, serif;
     line-height: 1.5;
